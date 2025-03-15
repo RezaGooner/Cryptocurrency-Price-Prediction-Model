@@ -1,0 +1,6 @@
+requests==2.31.0
+pandas==2.1.4
+matplotlib==3.8.2
+scikit-learn==1.3.2
+numpy==1.26.2
+mplcursors==0.5.2
