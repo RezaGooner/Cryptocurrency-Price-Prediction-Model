@@ -27,7 +27,7 @@ To run this project, you need to install the required libraries. These libraries
 After installing the dependencies, simply run the main script (main.py):
 
   ```bash
-    python main.py
+    python code.py
 ```
 
 ![image](https://github.com/user-attachments/assets/dfb9266a-a4ce-4171-9409-d6dae97357b8)
